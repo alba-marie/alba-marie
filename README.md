@@ -1,5 +1,5 @@
 <h1 align="center">Hey, there!</h1>
-<p>
+<p align = "center">
   I'm Alba, a data analysis and FCFM student. I read for pleasure and code with purpose.
 </p>
 
