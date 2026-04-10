@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alba-marie&theme=tokyonight&cache_seconds=1" />
+<img src="https://github-readme-stats.vercel.app/api?username=alba-marie&show_icons=true&theme=tokyonight" />
 </p>
